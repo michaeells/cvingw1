@@ -3,22 +3,21 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package cv_ejercicio.pkg2;
+package ejercicio.cv;
 
 /**
  *
  * @author Usuario
  */
-public class CV_EJERCICIO2 {
+public class EjercicioCv {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("version 1");
+        System.out.println(" version 1");
         System.out.println("version 1.1");
     }
-    
     
 }
